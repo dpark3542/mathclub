@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;   
+}
+
+img#fb {
+    /*padding: 20px 50px;*/
+}
+
+div.headshot {
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 1%;
+    background-color: @brand-primary;
+}
+
+img#logo {
+    margin-top: 50px;   
+}
+
+ul {
+    
+}

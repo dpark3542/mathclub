@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>UMD Math Club</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+<div id="body">
+
+<div id="header">
+<img src="banner.jpg">
+</div>
+
+<div id="left">
+<a href="index.html">Updates</a><br><br>
+<a href="join.html">Joining Math Club</a><br><br>
+<a href="officers.html">Officers</a><br><br>
+<a href="constitution.html">Constitution</a><br><br>
+<a href="activities.html">Activities</a><br><br>
+<a href="problems.html">Problem Sets</a><br><br>
+<a href="pictures.html">Pictures</a><br><br>
+<a href="links.html">Links</a><br><br>
+</div>
+
+
+<div id="center">
+If you're looking to join Math Club, there are absolutely no requirements!<br>
+You don't even have to be a math major! <br><br>
+Just come to one of our meetings on <b>MONDAYS from 4:00-5:00 PM,</b> in the Undergraduate Math Lounge on the Ground Floor of the Math Building!<br><br>
+In addition, our events are open to all students, whether Math Club members, math majors, or otherwise.
+</div>
+</body>
+</html>
+

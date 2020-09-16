@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>UMD Math Club</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+<div id="body">
+
+<div id="header">
+<img src="banner.jpg">
+</div>
+
+<div id="left">
+<a href="index.html">Updates</a><br><br>
+
+<a href="join.html">Joining Math Club</a><br><br>
+<a href="officers.html">Officers</a><br><br>
+<a href="constitution.html">Constitution</a><br><br>
+<a href="activities.html">Activities</a><br><br>
+<a href="problems.html">Problem Sets</a><br><br>
+<a href="pictures.html">Pictures</a><br><br>
+<a href="links.html">Links</a><br><br>
+</div>
+
+
+<div id="center">
+<div id="zero">
+<UL type="circle">
+This is a list of past presentations. If you didn't get to attend one of them but are interested in the 
+topic, email one of us and we'll get you some information!<br><br>
+
+<b>Fall 2006</b><br><br>
+
+<LI> <b>"Math Moments"</b> Presentations By Math Club Members <br><br>
+
+ Juliana Belding: <b>Google, Graph Theory and Linear Algebra</b><br>
+ Katherine Tuley: <b>Pseudo-random number generators from Fibonacci-like sequences</b><br>
+ Tevis Tsai: <b>The Wolf Interval: Math and Music</b><br>
+ Rachel Kirsch: <b>Structure and Color</b><br>
+ Katrina Lacurts: <b>Multiplying Polynomials in O(n log n)</b><br>
+
+
+<br><br>
+
+
+<b>2005-2006</b><br><br>
+<LI><b>May 9:</b> Game Night<br><br>
+<LI><b>April 25:</b> Cryptography talk Greg Bard<br><br>
+<LI><b>March 14:</b> Pi Day!<br><br>
+
+<LI><b>March 7:</b> Book Club begins - "The Code Book" by Simon Singh<br><br>
+<LI><b>February 22:</b> "What Goes on in the Brain of a Middle School Math Student?" by Prof. Aisling Leavy<br><br>
+<LI><b>February 21:</b> Academic First Look Fair<br><br>
+<LI><b>November 7:</b> 400 Level Lecture Series<br><br>
+<LI><b>November 2:</b> Talk on Geometric Algebra by Alan Brombosky<Br><br>
+
+<LI><b>October 12:</b> Game night.<br><br>
+<LI><b>September 12:</b> Graduate/undergraduate panel discussion by Juliana Belding.<br><br>
+
+
+<b>2004-2005</b><br><Br>
+
+<LI><b>April 13:</b> Presentation on "A Generalization of the Pythagorean Theorem" by Gary.<br><br>
+
+<LI><b>April 06:</b> Presentation on perspective geometry by Sonia Mukherji.<br><br>
+<LI><b>March 30:</b> Presentation on computable numbers by Galen.<br><br>
+<LI><b>March 16:</b> Presentation on solving the Rubik's Cube by Mitch.<br><br>
+<LI><b>March 14:</b> Pi Day! Various Pi presentations.<br><br>
+<LI><b>March 02:</b> Presentation on the Experimental Geometry lab by Anton.<br><br>
+
+<LI><b>February 23:</b> Presentation on the game Nim by Andy.
+</div>
+</div>
+</div>
+</body>
+</html>

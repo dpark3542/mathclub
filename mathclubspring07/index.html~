@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>UMD Math Club</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+<div id="body">
+
+<div id="header">
+<img src="banner.jpg">
+</div>
+
+<div id="left">
+<a href="index.html">Updates</a><br><br>
+
+<a href="join.html">Joining Math Club</a><br><br>
+<a href="officers.html">Officers</a><br><br>
+<a href="constitution.html">Constitution</a><br><br>
+<a href="activities.html">Activities</a><br><br>
+<a href="problems.html">Problem Sets</a><br><br>
+<a href="pictures.html">Pictures</a><br><br>
+<a href="links.html">Links</a><br><br>
+</div>
+
+
+<div id="center">
+<b>Current News and Events:</b><br><br>
+<div id="zero">
+<UL type="circle">
+
+UPCOMING ACTIVITIES!
+<br><br>
+<LI>Monday, December 4th, 4-6:00 pm: MOVIE NIGHT: Fermat's Last Tango!
+<br>Join us in Math 3201 (the third floor lounge) for pizza and this mathematical musical!
+<br><br>
+
+
+Some past activities this semester...
+<br><br>
+October 12, 3:30 pm: Welcome Tea for Undergraduate Math Majors
+<br><br>
+October 12, 4:00 pm - 5:00 pm: Panel: Graduate School in Mathematics: Is it for you?
+<br><br>
+November 8, 4:00 pm: Panel: What Can You Do With a Math Major?: Careers in Industry, Teaching and Government
+<br><br>
+November 29th, 4:30 pm: The Mathematics Of Sudoko! Professor Laura Taalman, James Madison University
+<br><br>
+Sudoku puzzles and their variants are linked to many mathematical problems 
+involving combinatorics, Latin squares, magic squares, polyominos, 
+symmetries, computer algorithms, the rook problem, knight tours, graph 
+colorings, and permutation group theory. In this talk we will explore 
+variations of Sudoku and the many open problems and new results in this 
+new field of recreational mathematics. Many of the problems we will 
+discuss are suitable for undergraduate research projects. Puzzle handouts 
+will be available for all to enjoy!
+<br><br>
+
+Check out Dr. Taalman's Sudoko Puzzles at 
+<a href="http://www.brainfreezepuzzles.com">www.brainfreezepuzzles.com</a><br>
+<br><br>
+
+
+And finally, any comments or suggestions pertaining to the website can be directed to <a href="mailto:mathclub@math.umd.edu">
+mathclub@math.umd.edu</a>.
+</div>
+
+</div>
+</body>
+</html>
+
